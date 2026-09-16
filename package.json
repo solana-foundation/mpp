@@ -55,7 +55,7 @@
     "unplugin-icons": "^23.0.1",
     "vite": "^7",
     "vite-plugin-mkcert": "^1.17.10",
-    "vitest": "^4.0.18"
+    "vitest": "^4.1.11"
   },
   "packageManager": "pnpm@10.22.0",
   "engines": {
