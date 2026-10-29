@@ -24,7 +24,7 @@
     "@resvg/resvg-wasm": "^2.6.2",
     "@stripe/stripe-js": "^8.9.0",
     "@vercel/blob": "^2.3.1",
-    "mermaid": "^11.12.2",
+    "mermaid": "^12.2.0",
     "mppx": "https://pkg.pr.new/mppx@283",
     "react": "^19",
     "react-dom": "^19",
@@ -33,7 +33,7 @@
     "viem": "^2.47.5",
     "vocs": "https://pkg.pr.new/wevm/vocs@319c55c",
     "wagmi": "^3.4.2",
-    "waku": "^1.0.0-alpha.4"
+    "waku": "^1.0.0-rc.4"
   },
   "devDependencies": {
     "@biomejs/biome": "^2.4.1",
@@ -55,7 +55,7 @@
     "unplugin-icons": "^23.0.1",
     "vite": "^7",
     "vite-plugin-mkcert": "^1.17.10",
-    "vitest": "^4.0.18"
+    "vitest": "^5.0.5"
   },
   "packageManager": "pnpm@10.22.0",
   "engines": {
